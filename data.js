@@ -37,7 +37,7 @@ var APP_DATA = {
           "yaw": 1.4215252103128826,
           "pitch": 0.4143388895257125,
           "title": "Backpack (Ba lô)",
-          "text": "<div class="sketchfab-embed-wrapper"> <iframe title="Balo" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/92a0ef2776784f19bdaa22b2640571db/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/balo-92a0ef2776784f19bdaa22b2640571db?utm_medium=embed&utm_campaign=share-popup&utm_content=92a0ef2776784f19bdaa22b2640571db" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Balo </a> by <a href="https://sketchfab.com/suzi_nguyen?utm_medium=embed&utm_campaign=share-popup&utm_content=92a0ef2776784f19bdaa22b2640571db" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> suzi_nguyen </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=92a0ef2776784f19bdaa22b2640571db" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>"
+          "text": "Text"
         },
         {
           "yaw": 2.7080803718458437,
